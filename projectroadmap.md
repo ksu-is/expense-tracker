@@ -1,6 +1,7 @@
+-Requirement Gathering Understand user needs - tracking expenses, categorizing them, and generating reports.
 -Find someone to work on the project with 
 -plan out with project idea we will be using 
--find a reating article or video 
+-find a realating article or video 
 -roughdraft a Read.me
 -proofread Read.me
 -clone files 
@@ -9,6 +10,7 @@
 -assign each memeber a task 
 -test the code to see if running smoothly 
 -workout the kinks 
+-User Feedback and Iteration Gather feedback from users, make necessary improvements, and iterate on the application
 -discuss the progress with group memeber 
 -create a presentation 
--record presentation 
+-record the presentation 
