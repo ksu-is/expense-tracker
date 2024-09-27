@@ -37,7 +37,7 @@ categoru_to_view + "food"
 print(f"\nViewing expenses for (catefory_to_view:")
 tracker.view.expenses_by_category(category_to_view)
 
-Contributions 
+#Contributions 
 
 Two individuals from Kennesaw, GA each with unique backgrounds in finance and management. Pursuing informations systems degree that collboratively developing a responsively design a expenses track application.  
     Memeber names:
